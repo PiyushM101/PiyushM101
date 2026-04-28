@@ -1,6 +1,6 @@
 ### Hey, I'm Piyush 👋
 
-MBA candidate at NYU Stern (AI + Strategy). Former fintech and e-commerce operator at Revolut, OnePay, and Flipkart. Now building AI-powered tools.
+MBA candidate at NYU Stern (AI + Strategy) Class of 2027. Former fintech and e-commerce operator at Revolut, OnePay, and Flipkart. Now building AI-powered tools.
 
 ---
 
