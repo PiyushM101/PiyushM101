@@ -27,7 +27,7 @@ MBA candidate at NYU Stern (AI + Strategy) Class of 2027. Former fintech and e-c
 **Currently**
 - Co-President @ Stern Tech Association
 - Researching agentic AI in financial services
-- Open to Summer 2026 Strategy / Ops / GTM internships
+- Open to Summer 2026 Product / Strategy / Ops / GTM internships
 
 ---
 
