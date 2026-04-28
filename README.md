@@ -8,7 +8,7 @@ MBA candidate at NYU Stern (AI + Strategy). Former fintech and e-commerce operat
 - 🧾 Expense-splitting app — built end-to-end in under 2 weeks (Next.js, Supabase, Vercel)
 - 📰 AI news agent — personalized daily briefs with automated delivery and zero infra cost
 - 💼 AI job board — crawls LinkedIn, Indeed & Glassdoor via Apify MCP integrations
-- 🗒️ AI meeting note-taker — Slack + Jira integrations, user-tested
+- 🗒️ Prototype for AI meeting note-taker — Slack + Jira integrations, user-tested
 
 ---
 
