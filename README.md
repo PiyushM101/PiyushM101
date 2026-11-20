@@ -9,6 +9,7 @@ MBA candidate at NYU Stern (AI + Strategy) Class of 2027. Former fintech and e-c
 - 📰 AI news agent — personalized daily briefs with automated delivery and zero infra cost
 - 💼 AI job board — crawls LinkedIn, Indeed & Glassdoor via Apify MCP integrations
 - 🗒️ Prototype for AI meeting note-taker — Slack + Jira integrations, user-tested
+- A snake game, similar to the Nokia classic
 
 ---
 
@@ -27,7 +28,7 @@ MBA candidate at NYU Stern (AI + Strategy) Class of 2027. Former fintech and e-c
 **Currently**
 - Co-President @ Stern Tech Association
 - Researching agentic AI in financial services
-- Open to Summer 2026 Product / Strategy / Ops / GTM internships
+- Open to Product / Strategy / Ops / GTM full-time roles starting Jun 2027
 
 ---
 
